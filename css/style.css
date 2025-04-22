@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.image{
+    background-image: url('https://ik.imagekit.io/qqgtp0ejg/mern-stack-project/todolistbg.png_updatedAt=1700761069523?updatedAt=1745331094704');
+    background-size: contain;
+    height:700px;
+    width: 1000px;
+    background-repeat: no-repeat;
+    align-items: center;
+    color: white;
+    font-family: Roboto;
+    align-items: center;
+}
+h1{
+    color: white;
+    padding-left: 13%;
+}
+p{
+    color: white;
+    justify-content: center;
+    cursor: pointer;
+}
+.desc{
+    line-height: normal;
+}
+.start-btn{
+    margin-left: 15%;
+    padding: 1%;
+    background-color: orange;
+    font-family: Roboto;
+}
+.skip-link{
+    padding-left: 10%;
+    color: white;
+}
